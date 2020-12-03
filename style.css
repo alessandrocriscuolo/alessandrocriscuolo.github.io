@@ -16,7 +16,7 @@ html {
 *::after {
 	box-sizing: inherit;
 }
-svg {
+img {
 	fill: #ffffff;
 	background: rgba(0, 0, 0, 0.1);
 	padding: 20px;
@@ -71,7 +71,8 @@ h2 {
 .add-items input {
 	padding: 10px;
 	outline: 0;
-	border: 1px solid rgba(0,0,0,0.1);
+	border: 2px solid rgb(240, 167, 9);
+	cursor: pointer;
 }
 white_check_mark
 eyes
